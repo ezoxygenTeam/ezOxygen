@@ -1,14 +1,21 @@
+![](https://github.com/ezoxygenTeam/ezOxygen/blob/main/photo/GH_LOGO(E).png)
+<br>
+<br>
+<br>
 # ezOxygen - Your Smart Breathe Checker
 
  **ezOxygen Breathe Checker** is the first product commercialized by Genius Holding utilizing ultrasonic gas flow rate technology. It won the **Innovation Award in Fitness, Sports, and Biotech at the 2019 CES**.  
+ 
 Furthermore, a strategic partnership was established with the global pharmaceutical giant **AstraZeneca**. In addition to launching the ezOxygen App, a specialized **"呼吸肺健康"(Healthylung)** App was developed for AstraZeneca. This app not only integrates with ezOxygen breathe checker to measure lung capacity but also employs machine learning AI via the smartphone camera to identify the type and dosage of medication in the user's inhaler.
+
+![](https://github.com/ezoxygenTeam/ezOxygen/blob/main/photo/exOxygen_1.jpg)
 
 # What is the ezOxygen feature?
 
 ### Lung Capacity Measurement  
 Provides values such as peak expiratory flow, forced expiratory volume in one second, and forced vital capacity.  
 ### Data Synchronization  
-Syncs data to smartphones or tablets via WiFi, and displays it on the ezOxygen App.  
+Syncs data to smartphones or tablets via WiFi, and displays it on the App.  
 ### Real-Time Weather Information  
 Offers local weather and air quality information based on GPS location, helping users determine the best times for outdoor activities.  
 ### Historical Data Analysis  
@@ -19,31 +26,44 @@ Users can follow their family and friends' lung capacity performance through the
 # How to use?
 
 [Please click here to get more detail introduction](https://github.com/ezoxygenTeam/ezOxygen/blob/main/operate%20introduction/operate_info.md)
-
+<br>
+<br>
 
 # Mobile Application Information
 
-We provide an app compatible with both iOS and Android systems. The **ezOxygen** APP and **呼吸肺健康** APP can be downloaded from APP store and Google Play store.
+We provide an app compatible with both iOS and Android systems. **呼吸肺健康** APP can be downloaded from APP store and Google Play store.
 
 ### The APP website address:  
-iOS for ezOxygen: https://apps.apple.com/tw/app/try-breath/id6443699394  
-Android for : https://play.google.com/store/apps/details?id=com.maxosoft.incentive_spirometer&hl=en_US  
+
+[APP for iOS](https://apps.apple.com/tw/app/%E5%91%BC%E5%90%B8%E8%82%BA%E5%81%A5%E5%BA%B7/id1512962926)  
+
+[APP for Android](https://play.google.com/store/apps/details?id=app.winshare.www.breath_app&hl=zh&gl=US)
 
 
 # The Usage Information
+
 ### The demonstration video:
-Chinese version: https://www.youtube.com/watch?v=y8YPKx7i2dc  
-English version: https://www.youtube.com/watch?v=znj28Z88hBw  
+
+[How to use ezOxygen(English)](https://www.youtube.com/watch?v=LXfX2agMnWc)  
+
+[ezOxygen裝置使用教學](https://www.youtube.com/watch?v=UFi-iH_Rb50)  
+
 
 ### The Office-related links:
-Office website: https://try-breath.com/  
+
+Office website: https://www.ezoxygentech.com/  
+
 Linkedin: https://www.linkedin.com/company/ezoxygen/  
+
 Facebook: https://www.facebook.com/ezoxygen  
-How to buy Try-Breath recorder: https://shop.greattree.com.tw/product?SaleID=2306120031  
+
+How to buy ezOxygen: https://shop.greattree.com.tw/product?SaleID=2107252256
+
 
 ### Other related links:
-Financial related: https://pubmed.ncbi.nlm.nih.gov/30175643/  
-Medical related: https://www.ncbi.nlm.nih.gov/books/NBK572114/  
+ 
+Clinic related: https://www.mdpi.com/2075-4426/11/11/1067  
+
 
 ### Contact us
 service@genius-gh.com
